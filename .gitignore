@@ -1,0 +1,13 @@
+target/
+.env
+.env.local
+*.class
+*.sml
+*.log
+*.tmp
+surefire-reports/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
